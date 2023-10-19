@@ -6,45 +6,14 @@
 
 @import url(../bloks/page/page.css);
 
-@import url(../bloks/header/header.css);
-@import url(../bloks/header/__logo/header__logo.css);
-@import url(../bloks/header/__lang-link/header__lang-link.css);
-@import url(../bloks/header/__lang-link/_active/header__lang-link_active.css);
-
-@import url(../bloks/lead/lead.css);
-@import url(../bloks/lead/__caption/lead__caption.css);
-@import url(../bloks/lead/__image/lead__image.css);
-@import url(../bloks/lead/__subtitle/lead__subtitle.css);
-@import url(../bloks/lead/__title/lead__title.css);
-
-@import url(../bloks/intro/into.css);
-@import url(../bloks/intro/__list/intro__list.css);
-@import url(../bloks/intro/__quantity/intro__quantity.css);
-@import url(../bloks/intro/__text/intro__text.css);
-@import url(../bloks/intro/__title/intro__title.css);
-
 @import url(../bloks/photo-grid/photo-grid.css);
-@import url(../bloks/photo-grid/__item/photo-grid__item.css);
-
-
-@import url(../bloks/places/places.css);
-
-
-@import url(../bloks/place/place.css);
-@import url(../bloks/place/__image/place__image.css);
-@import url(../bloks/place/__link/place__link.css);
-@import url(../bloks/place/__paragraph/place__paragraph.css);
-@import url(../bloks/place/__title/place__title.css);
-@import url(../bloks/place/__url-heading/place__url-heading.css);
-@import url(../bloks/place/__website/place__website.css);
-
-
-@import url(../bloks/cover/cover.css);
-@import url(../bloks/cover/__link/cover__link.css);
-@import url(../bloks/cover/__subtitle/cover__subtitle.css);
-@import url(../bloks/cover/__title/cover__title.css);
-
-@import url(../bloks/footer/footer.css);
-@import url(../bloks/footer/__copyright/footer__copyright.css);
-@import url(../bloks/footer/__link/footer__link.css);
-@import url(../bloks/footer/__links/footer__links.css);
+@import url(../bloks/photo-grid/__item1/photo-grid__item1.css);
+@import url(../bloks/photo-grid/__item2/photo-grid__item2.css);
+@import url(../bloks/photo-grid/__item3/photo-grid__item3.css);
+@import url(../bloks/photo-grid/__item4/photo-grid__item4.css);
+@import url(../bloks/photo-grid/__item5/photo-grid__item5.css);
+@import url(../bloks/photo-grid/__item6/photo-grid__item6.css);
+@import url(../bloks/photo-grid/__item7/photo-grid__item7.css);
+@import url(../bloks/photo-grid/__item8/photo-grid__item8.css);
+@import url(../bloks/photo-grid/__item9/photo-grid__item9.css);
+@import url(../bloks/photo-grid/__item10/photo-grid__item10.css);

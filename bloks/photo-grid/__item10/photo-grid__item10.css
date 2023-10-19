@@ -1,0 +1,14 @@
+.photo-grid__item10{ 
+    background-image: url(../../../images/7.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+ }
+ @media screen and (max-width:992px) {
+    .photo-grid__item10{
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 3;
+        grid-row-end: 4;    
+    }
+ }

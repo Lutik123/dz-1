@@ -1,0 +1,23 @@
+
+.photo-grid__item2{
+    max-width: 100%;
+    height: auto;
+    background-image: url(../../../images/9.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    
+ }
+ @media screen and (max-width:992px) {
+    .photo-grid__item2{
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 1;
+        grid-row-end: 3;
+        
+    }
+}

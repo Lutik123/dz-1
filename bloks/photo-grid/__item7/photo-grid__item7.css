@@ -1,0 +1,39 @@
+.photo-grid__item7{
+    background-color: #828282;   
+ }
+ .photo-grid__text{
+    color: #F2F2F2;
+    font-size: 18px;
+    line-height: 21.78px;
+    font-weight: 300;
+    margin: 0 auto;
+    padding-top: 95px;
+    max-width: 345px;    
+ }
+ @media screen and (max-width:992px) {
+    .photo-grid__item7{
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 4;
+        grid-row-end: 5;    
+    }
+    .photo-grid__text{
+        max-width: 300px;
+        margin-top: 0px;
+        padding-left: 15px;
+        line-height: 35px;            
+    }
+ }
+ @media screen and (max-width:768px) {
+    .photo-grid__text{
+        max-width: 300px;
+        padding-top: 40px;
+        padding-left: 10px;
+        padding-right: 5px ;
+    }
+ }
+ @media screen and (max-width:320px) {
+    .photo-grid__text{
+        line-height: 30px;
+    }
+ }
